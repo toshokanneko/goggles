@@ -25,6 +25,7 @@ $discard,site=deutschlandfunknova.de
 $discard,site=ruhrbarone.de
 $discard,site=zdf.de
 $discard,site=wdr.de
+$discard,site=ardaudiothek.de
 $discard,site=tagesspiegel.de
 $discard,site=t-online.de
 $discard,site=n-tv.de
@@ -44,10 +45,14 @@ $downrank=10,site=ruhr24.de
 $downrank=10,site=sueddeutsche.de
 $downrank=10,site=stuttgarter-nachrichten.de
 $downrank=10,site=rp-online.de
+$downrank=10,site=lauterbacher-anzeiger.de
 
 ! EU
 $discard,site=politico.eu
 $discard,site=euronews.com
+
+! FR
+$discard,site=francetvinfo.fr
 
 ! UK
 $discard,site=bbc.com
@@ -59,10 +64,17 @@ $discard,site=washingtonpost.com
 $discard,site=reuters.com
 $discard,site=yahoo.com
 $discard,site=msn.com
+$discard,site=thetimes.com
+$discard,site=cnn.com
+$discard,site=nbcnews.com
+$discard,site=npr.org
+$discard,site=apnews.com
+$discard,site=cbsnews.com
+$discard,site=foxnews.com
 
 ! -
 $downrank=5,site=wikipedia.com
 $downrank=3,site=youtube.com
-$boost=10,site=odysee.com
+$boost=5,site=odysee.com
 $boost=1,site=rumble.com
 $boost=1,site=twitter.com
