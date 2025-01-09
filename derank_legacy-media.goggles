@@ -6,10 +6,13 @@
 
 ! AT
 $downrank=10,site=derstandard.at
+$downrank=10,site=heute.at
 
 ! CH
 $downrank=10,site=20min.ch
+$downrank=9,site=nzz.ch
 $downrank=9,site=aargauerzeitung.ch
+$downrank=9,site=thurgauerzeitung.ch
 
 ! DE
 $downrank=10,site=focus.de
@@ -19,16 +22,31 @@ $downrank=10,site=welt.de
 $downrank=10,site=zeit.de
 $downrank=10,site=tagesschau.de
 $downrank=10,site=zdf.de
+$downrank=10,site=wdr.de
 $downrank=10,site=tagesspiegel.de
+$downrank=10,site=t-online.de
+$downrank=10,site=juedische-allgemeine.de
+$downrank=10,site=handelsblatt.com
+$downrank=10,site=deutschlandfunk.de
+$downrank=10,site=faz.net
 $downrank=9,site=berliner-zeitung.de
 $downrank=9,site=fr.de
+$downrank=9,site=morgenpost.de
+$downrank=9,site=inforadio.de
+$downrank=9,site=ruhr24.de
+$downrank=9,site=sueddeutsche.de
+
+! EU
+$downrank=10,site=politico.eu
+$downrank=10,site=euronews.com
 
 ! UK
 $downrank=10,site=bbc.com
-$downrank=9,site=theguardian.com
+$downrank=10,site=theguardian.com
 
 ! US
 $downrank=10,site=nytimes.com
 $downrank=10,site=washingtonpost.com
 $downrank=10,site=reuters.com
 $downrank=10,site=yahoo.com
+$downrank=10,site=msn.com
