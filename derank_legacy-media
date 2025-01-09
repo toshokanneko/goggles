@@ -1,0 +1,10 @@
+! name: Derank Legacy Media
+! description: -
+! public: false
+! author: Rave
+
+$discard
+$downrank,site=bbc.com
+$downrank,site=focus.de
+
+$boost=1,site=github.io
