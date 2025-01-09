@@ -50,3 +50,6 @@ $downrank=10,site=washingtonpost.com
 $downrank=10,site=reuters.com
 $downrank=10,site=yahoo.com
 $downrank=10,site=msn.com
+
+$boost=2,site=odysee.com
+$boost=1,site=twitter.com
