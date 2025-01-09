@@ -3,8 +3,10 @@
 ! public: false
 ! author: Rave
 
-$discard,site=bbc.com
-$discard,site=focus.de
+$discard
+$boost,site=bbc.com
+$boost,site=focus.de
+
 
 $downrank,site=-.com
 
