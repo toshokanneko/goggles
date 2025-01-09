@@ -3,11 +3,14 @@
 ! public: false
 ! author: Rave
 
-! UK
-$downrank=10,site=bbc.com
-$downrank=9,site=theguardian.com
+
 ! AT
 $downrank=10,site=derstandard.at
+
+! CH
+$downrank=10,site=20min.ch
+$downrank=9,site=aargauerzeitung.ch
+
 ! DE
 $downrank=10,site=focus.de
 $downrank=10,site=stern.de
@@ -19,8 +22,13 @@ $downrank=10,site=zdf.de
 $downrank=10,site=tagesspiegel.de
 $downrank=9,site=berliner-zeitung.de
 $downrank=9,site=fr.de
-! CH
-$downrank=10,site=20min.ch
-$downrank=9,site=aargauerzeitung.ch
 
-$boost=1,site=-.com
+! UK
+$downrank=10,site=bbc.com
+$downrank=9,site=theguardian.com
+
+! US
+$downrank=10,site=nytimes.com
+$downrank=10,site=washingtonpost.com
+$downrank=10,site=reuters.com
+$downrank=10,site=yahoo.com
