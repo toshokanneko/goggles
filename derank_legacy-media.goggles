@@ -4,8 +4,9 @@
 ! author: Rave
 
 $discard
-$boost,site=bbc.com
-$boost,site=focus.de
+
+$downrank=3,site=bbc.com
+$downrank=3,site=focus.de
 
 
 $downrank,site=-.com
