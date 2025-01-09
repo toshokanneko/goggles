@@ -27,17 +27,22 @@ $discard,site=zdf.de
 $discard,site=wdr.de
 $discard,site=tagesspiegel.de
 $discard,site=t-online.de
+$discard,site=n-tv.de
 $discard,site=juedische-allgemeine.de
 $discard,site=handelsblatt.com
 $discard,site=deutschlandfunk.de
 $discard,site=faz.net
 $discard,site=taz.net
+$discard,site=diepresse.com
+$discard,site=correctiv.org
 $downrank=10,site=berliner-zeitung.de
 $downrank=10,site=fr.de
 $downrank=10,site=morgenpost.de
 $downrank=10,site=inforadio.de
 $downrank=10,site=ruhr24.de
 $downrank=10,site=sueddeutsche.de
+$downrank=10,site=stuttgarter-nachrichten.de
+$downrank=10,site=rp-online.de
 
 ! EU
 $discard,site=politico.eu
