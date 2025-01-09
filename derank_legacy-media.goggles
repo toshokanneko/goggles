@@ -3,8 +3,9 @@
 ! public: false
 ! author: Rave
 
-$discard
-$downrank,site=bbc.com
-$downrank,site=focus.de
+$discard,site=bbc.com
+$discard,site=focus.de
+
+$downrank,site=-.com
 
 $boost=1,site=github.io
