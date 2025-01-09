@@ -35,6 +35,7 @@ $discard,site=faz.net
 $discard,site=taz.net
 $discard,site=diepresse.com
 $discard,site=correctiv.org
+$downrank=10,site=lobbycontrol.de
 $downrank=10,site=berliner-zeitung.de
 $downrank=10,site=fr.de
 $downrank=10,site=morgenpost.de
@@ -60,8 +61,8 @@ $discard,site=yahoo.com
 $discard,site=msn.com
 
 ! -
-$downrank=3,site=wikipedia.com
-$downrank=1,site=youtube.com
-$boost=5,site=odysee.com
+$downrank=5,site=wikipedia.com
+$downrank=3,site=youtube.com
+$boost=10,site=odysee.com
 $boost=1,site=rumble.com
 $boost=1,site=twitter.com
