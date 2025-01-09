@@ -8,6 +8,9 @@ $downrank=10,site=bbc.com
 $downrank=9,site=theguardian.com
 ! DE
 $downrank=10,site=focus.de
+$downrank=10,site=stern.de
+$downrank=10,site=bild.de
+$downrank=10,site=welt.de
 
 
 $downrank,site=-.com
