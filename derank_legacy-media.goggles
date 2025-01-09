@@ -8,4 +8,4 @@ $discard,site=focus.de
 
 $downrank,site=-.com
 
-$boost=1,site=github.io
+$boost=1,site=-.com
