@@ -3,10 +3,11 @@
 ! public: false
 ! author: Rave
 
-$discard
-
-$downrank=3,site=bbc.com
-$downrank=3,site=focus.de
+! UK
+$downrank=10,site=bbc.com
+$downrank=9,site=theguardian.com
+! DE
+$downrank=10,site=focus.de
 
 
 $downrank,site=-.com
