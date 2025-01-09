@@ -20,7 +20,8 @@ $downrank=10,site=stern.de
 $downrank=10,site=bild.de
 $downrank=10,site=welt.de
 $downrank=10,site=zeit.de
-$downrank=10,site=tagesschau.de
+$discard,site=tagesschau.de
+$discard,site=deutschlandfunknova.de
 $downrank=10,site=zdf.de
 $downrank=10,site=wdr.de
 $downrank=10,site=tagesspiegel.de
